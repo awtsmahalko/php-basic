@@ -1,7 +1,9 @@
 <?php
 // error_reporting(0);
 define("SYSTEM_NAME", "ZECH BASIC PHP TEMPLATE");
-define("BASE_PATH", "http://192.168.64.2/zech-php-basic/");
+define("URL_PATH", "http://192.168.64.2");
+define("SYS_PATH", "zech-php-basic");
+define("BASE_PATH", URL_PATH . "/" . SYS_PATH . "/");
 define("APP_FOLDER", "system/");
 define("VIEWS_FOLDER", "views/");
 

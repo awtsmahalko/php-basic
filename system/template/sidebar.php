@@ -28,7 +28,7 @@
                     </a>
                 </li>
                 <li class='nav-item'>
-                    <a href='http://192.168.64.2/zech-php-basic/system/user' class='nav-link'>
+                    <a href='http://192.168.64.2/zech-php-basic/system/users' class='nav-link'>
                         <i class='nav-icon fa fa-users'></i>
                         <p>Users</p>
                     </a>
